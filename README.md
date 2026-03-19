@@ -15,5 +15,11 @@ Run:
 - conda env create -f environment.yml
 - conda activate fair
 
+## Final outputs in the reports/ folder
+- FinalProject.pdf
+- SryWei_FaIR.pdf
+
 ## Notes
 The notebook uses local input files stored in the data/ folder.
+
+
